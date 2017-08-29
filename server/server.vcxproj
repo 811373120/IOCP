@@ -78,6 +78,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="111.cpp" />
+    <ClCompile Include="2.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="ServerMoudle.cpp" />
   </ItemGroup>

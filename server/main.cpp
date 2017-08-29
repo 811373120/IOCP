@@ -14,5 +14,6 @@ using namespace std;
 int main()
 {
 	ServerMoudle s;
+	DebugBreak();
 	s.StartServer();
 }
